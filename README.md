@@ -8,4 +8,4 @@ The hardware cursor option allows your graphics processing unit (GPU) to draw an
 
 ## W3RendererFpsUncap
 
-Removes the 64fps video cap and results in a smooth cursor, camera scrolling, and menu menus.
+Removes the 64fps video cap and results in a smooth cursor, camera scrolling, and main menu.
